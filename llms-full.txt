@@ -1,0 +1,58 @@
+# Laboratoriomecanicadesuelos — Vitoria
+
+> Geotechnical engineering services in Vitoria, España.
+
+## Services
+- [Aislacion Sismica](https://vitoria.laboratoriomecanicadesuelos.org/aislacion-sismica/)
+- [Anclajes](https://vitoria.laboratoriomecanicadesuelos.org/anclajes/)
+- [Calicatas](https://vitoria.laboratoriomecanicadesuelos.org/calicatas/)
+- [Cbr Vial](https://vitoria.laboratoriomecanicadesuelos.org/cbr-vial/)
+- [Cimentaciones](https://vitoria.laboratoriomecanicadesuelos.org/cimentaciones/)
+- [Cimentaciones Superficiales](https://vitoria.laboratoriomecanicadesuelos.org/cimentaciones-superficiales/)
+- [Columnas Grava](https://vitoria.laboratoriomecanicadesuelos.org/columnas-grava/)
+- [Densidad Cono Arena](https://vitoria.laboratoriomecanicadesuelos.org/densidad-cono-arena/)
+- [Ensayo Cpt](https://vitoria.laboratoriomecanicadesuelos.org/ensayo-cpt/)
+- [Ensayos Proctor](https://vitoria.laboratoriomecanicadesuelos.org/ensayos-proctor/)
+- [Estabilidad Taludes](https://vitoria.laboratoriomecanicadesuelos.org/estabilidad-taludes/)
+- [Excavaciones Profundas](https://vitoria.laboratoriomecanicadesuelos.org/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://vitoria.laboratoriomecanicadesuelos.org/excavaciones-subterraneo/)
+- [Exploracion](https://vitoria.laboratoriomecanicadesuelos.org/exploracion/)
+- [Geofisica](https://vitoria.laboratoriomecanicadesuelos.org/geofisica/)
+- [Geotecnia Vial](https://vitoria.laboratoriomecanicadesuelos.org/geotecnia-vial/)
+- [Granulometria](https://vitoria.laboratoriomecanicadesuelos.org/granulometria/)
+- [Grouting](https://vitoria.laboratoriomecanicadesuelos.org/grouting/)
+- [Inyecciones](https://vitoria.laboratoriomecanicadesuelos.org/inyecciones/)
+- [Laboratorio In Situ](https://vitoria.laboratoriomecanicadesuelos.org/laboratorio-in-situ/)
+- [Laboratorio Lab](https://vitoria.laboratoriomecanicadesuelos.org/laboratorio-lab/)
+- [Licuefaccion](https://vitoria.laboratoriomecanicadesuelos.org/licuefaccion/)
+- [Limites Atterberg](https://vitoria.laboratoriomecanicadesuelos.org/limites-atterberg/)
+- [Losa De Cimentacion](https://vitoria.laboratoriomecanicadesuelos.org/losa-de-cimentacion/)
+- [Losas Fundacion](https://vitoria.laboratoriomecanicadesuelos.org/losas-fundacion/)
+- [Masw](https://vitoria.laboratoriomecanicadesuelos.org/masw/)
+- [Mejoramiento](https://vitoria.laboratoriomecanicadesuelos.org/mejoramiento/)
+- [Microzonificacion Sismica](https://vitoria.laboratoriomecanicadesuelos.org/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://vitoria.laboratoriomecanicadesuelos.org/monitoreo-excavaciones/)
+- [Muros Contencion](https://vitoria.laboratoriomecanicadesuelos.org/muros-contencion/)
+- [Pavimento Flexible](https://vitoria.laboratoriomecanicadesuelos.org/pavimento-flexible/)
+- [Pavimento Rigido](https://vitoria.laboratoriomecanicadesuelos.org/pavimento-rigido/)
+- [Permeabilidad In Situ](https://vitoria.laboratoriomecanicadesuelos.org/permeabilidad-in-situ/)
+- [Pilotes](https://vitoria.laboratoriomecanicadesuelos.org/pilotes/)
+- [Placa De Carga](https://vitoria.laboratoriomecanicadesuelos.org/placa-de-carga/)
+- [Refraccion Sismica](https://vitoria.laboratoriomecanicadesuelos.org/refraccion-sismica/)
+- [Resistividad](https://vitoria.laboratoriomecanicadesuelos.org/resistividad/)
+- [Sismica](https://vitoria.laboratoriomecanicadesuelos.org/sismica/)
+- [Sondaje Spt](https://vitoria.laboratoriomecanicadesuelos.org/sondaje-spt/)
+- [Sondajes Spt](https://vitoria.laboratoriomecanicadesuelos.org/sondajes-spt/)
+- [Taludes](https://vitoria.laboratoriomecanicadesuelos.org/taludes/)
+- [Tomografia Sismica](https://vitoria.laboratoriomecanicadesuelos.org/tomografia-sismica/)
+- [Triaxial](https://vitoria.laboratoriomecanicadesuelos.org/triaxial/)
+- [Tuneles Suelo Blando](https://vitoria.laboratoriomecanicadesuelos.org/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://vitoria.laboratoriomecanicadesuelos.org/vibrocompactacion/)
+- [Zapatas](https://vitoria.laboratoriomecanicadesuelos.org/zapatas/)
+
+## Contact
+- Website: https://vitoria.laboratoriomecanicadesuelos.org/
+
+## About
+This site provides geotechnical engineering services in Vitoria, España.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
